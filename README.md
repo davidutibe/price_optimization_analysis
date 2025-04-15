@@ -295,18 +295,18 @@ order by
 
 
 ## Recommendations from the Data Analysis
-1. **Double Down on Volume-Based Promotions**
-        * Volume deals deliver +63% uplift and 2.5× higher AOV than discounts. Prioritize bulk-based offers over discounts to grow basket size without hurting margins.
-2. **Bundle Around High Attach Products**    
-        * Use Beer, Pasta, and Noodles as core items in bundles — they drive the most add-ons and increase basket size.  
-3. **Lean Into Perceived Value Winners**  
-        * Bundles like Party Pack and Naija Jollof Combo hit the sweet spot on margin and customer perception. Prioritize and expand these.
-4.	**Rework Underperforming Bundles**  
-        * Night with the Cliq has weak traction despite fair margins. Repackage it with more attractive anchor products or phase it out.
-5.	**Geo-Target Bundle Strategy**  
-        * Focus premium or upsell bundles in Abuja and Port Harcourt (highest CLV), and value bundles in Ibadan.
-6.	**Use Loss Leaders Wisely**  
-        * Slight discounts on high-attach products (like Beer) can pull customers into higher-margin bundles — use selectively.
+1. **Prioritize High Attach-Rate Products in Bundle Design and Promotions**
+        * Products like Beer (0.414), Pasta (0.411), and Noodles (0.407) consistently trigger additional purchases. These should anchor future bundle configurations and upselling strategies. For instance, combining Beer with complementary snacks or cooking items may drive both unit economics and perceived value, especially if margin tolerances allow for a small incentive.
+2. **Optimize Bundle Pricing Around Perceived Value Leaders**    
+        * Bundles such as Party Pack and Naija Jollof Combo demonstrate strong attach rates (≥0.40) while maintaining margins above 11%. This signals a positive value perception among customers. Pricing should aim to preserve this perception without compressing margins — small anchor price adjustments (e.g., ±₦50–₦100) can be tested A/B-style to find the optimal price elasticity point.  
+3. **Deprioritize or Repackage Low-Perception, Low-Volume Bundles**  
+        * Night with the Cliq underperforms on both attach rate (0.37) and order volume (51), despite having a comparable margin to better-performing bundles. This suggests a disconnect between value offered and customer expectations. Consider repackaging it with a more desirable lead product or retiring it in favor of bundles that have shown stronger traction.
+4.	**Develop City-Specific Bundling Strategies Based on CLV**  
+        * Abuja and Port Harcourt lead in customer lifetime value (₦3.33M and ₦3.05M respectively). For these cities, prioritize higher-margin bundles and explore personalized, premium-tier offerings. In contrast, Ibadan, with a lower CLV (~₦2.83M), may respond better to value-driven bundles with leaner margins but higher frequency.
+5.	**Reinforce Anchor Products with Strategic Discounts**  
+        * High attach rate products like Beer and Pasta can be used as loss leaders or marginally discounted items within a bundle to amplify volume. The goal is to attract customers into higher-margin ecosystems (e.g., full meal kits), where perceived value is high but the cost of goods is strategically controlled through careful product selection.
+6.	**Double Down on Volume-Based Promotions**  
+        * Volume deals not only boost promo uplift (+63%) but also generate significantly higher AOV (₦65,186 vs ₦25,937 for discounts). Shift promotional strategy away from blanket discounts toward Buy More, Save More type offers. This maximizes both basket size and total revenue while maintaining price integrity.
 
 ## Conclusion
 This analysis highlights clear levers for driving revenue and profitability: 
