@@ -33,7 +33,7 @@ Using SQL, I analyzed their sales and customer data to identify patterns in marg
 The project involves the analysis of the Home Store Sales and Customer behaviour Data. The tasks to be completed include:
 1. Explore the data to look for the greatest correlations between the various bundles, promo strategies and profitability.
 2. Explore the data to determine the most profitable SKUs and cities with the most valuable customers.
-3. Create a Dockerfile for deployment.
+3. Create a markdown file for deployment.
 4. Host the code on GitHub or GitLab.
 
 
