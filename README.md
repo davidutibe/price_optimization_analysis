@@ -30,7 +30,7 @@ Home Store (hypthetical), is a growing grocery delivery service across Nigeria, 
 Using SQL, I analyzed their sales and customer data to identify patterns in margin contribution, customer behavior, and bundle effectiveness—leading to clear, actionable recommendations.
 
 ## Project Description
-The project involves the analysis of credit scoring for the Home Store Sales and Customer behaviour Data. The tasks to be completed include:
+The project involves the analysis of the Home Store Sales and Customer behaviour Data. The tasks to be completed include:
 1. Explore the data to look for the greatest correlations between the various bundles, promo strategies and profitability.
 2. Explore the data to determine the most profitable SKUs and cities with the most valuable customers.
 3. Create a Dockerfile for deployment.
