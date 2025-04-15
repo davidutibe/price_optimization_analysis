@@ -47,7 +47,7 @@ The project aims to answer the following research questions:
 6. Which bundles strike the best tradeoff between profit margin and customer perception?
 
 ## About the Dataset
-The dataset was randomly simulated using microsoft excel. It contains 1800 entries, each entry representing a sales transaction with a unique transaction id. 
+The dataset was simulated using microsoft excel. It contains 1800 entries, each entry representing a sales transaction with a unique transaction id. 
 [(Link to the dataset)](https://docs.google.com/spreadsheets/d/1i778j9FUP08VgS25v64mK8oGUDGDGCxYe9vUziXigrg/edit?gid=0#gid=0)
 
 The dataset 1800 rows 15 columns with SKU transaction information. The columns are described as follows:
