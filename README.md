@@ -69,7 +69,7 @@ The dataset 1800 rows 15 columns with SKU transaction information. The columns a
 
 ## Languages, Utilities, and Environments Used
 * Microsoft Excel: Data Simulation
-* SQL: Data transformation, Analysis, and Exploration [(link to the SQL analysis file)] ()
+* SQL: Data transformation, Analysis, and Exploration [(link to the SQL analysis file)](https://github.com/davidutibe/price_optimization_analysis/blob/main/Pricing%20Optimization%20Analysis.sql)
 * Environment: Microsoft SQL Server Management Studio
 
 ## Importing the Dataset into Microsoft SQL Server
