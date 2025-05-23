@@ -334,7 +334,7 @@ focus on volume-based promotions, bundle high-margin and high-attach products, a
    
 **Thank you for taking the time to read through this project!**
 
-**For inquiries, collaboration opportunities, or to engage my services, feel free to reach out via email: mdavidutibe@gmail.com.**
+**For inquiries, collaboration opportunities, or to engage my services, feel free to reach out via email: mdavidutibe@gmail.com or phone: +234 8167025252.**
 
 ### Author
 [David Utibe Michael](https://github.com/davidutibe)
